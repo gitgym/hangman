@@ -1,6 +1,6 @@
 # hangman1
 
-FIXME: description
+Started with datastructure and developed a couple of pure functions to create basic game engine (game.cljc). 
 
 ## Installation
 
