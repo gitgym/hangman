@@ -1,6 +1,6 @@
 # hangman1
 
-Started with datastructure and developed a couple of pure functions to create basic game engine (game.cljc). 
+Started with datastructure and developed a couple of pure functions to create basic game engine (game.cljc). Added tests and rich comments. 
 
 ## Installation
 
@@ -8,25 +8,21 @@ Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
+git clone the repository and run lein run in the project directory. 
 
     $ java -jar hangman1-0.1.0-standalone.jar [args]
 
 ## Options
 
-FIXME: listing of options this app accepts.
-
+FIXME: None yet
 ## Examples
 
-...
+TODO
 
 ### Bugs
 
-...
+TODO
 
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
